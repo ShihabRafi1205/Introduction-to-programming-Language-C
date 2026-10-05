@@ -1,1 +1,3 @@
-HIHello
+Odd Number
+Odd Number
+Negative Number
